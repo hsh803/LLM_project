@@ -11,5 +11,5 @@
 
 ## Evaluation
 - WER (Word Error rate): wer.py
-- SeMaScore (Sasindran et al., 2024): Semascore.py is modified by using the original SeMaScore code from codes/sema_score_generator.py
+- SeMaScore (Sasindran et al., 2024): Semascore.py is modified by using the original SeMaScore code from https://github.com/zenlab-edgeASR/SeMaScore/tree/main/codes
   
