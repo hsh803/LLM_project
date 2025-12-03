@@ -1,6 +1,7 @@
 # Research and development project
 - R&D course project from Language Technology Mater's program, Uppsala university
 - Subject of the project: Eror Propagation in STT Pipelines: Investigating Language Model Limitations and Amplification Effects
+- Project report: RnD_final report.pdf
 
 ## Introduction
 - This project specifically examines the impact of LMs (Language models) during the post-correction phase of the ASR (Automatic Speech Recognition) workflow.
