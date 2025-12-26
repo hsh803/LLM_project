@@ -27,7 +27,7 @@
 - Indicating that the quality of the test datasets is balanced.
 - Subsequent experiments were conducted with all 500 audio samples.
 
-<img width="180" height="80" alt="image" src="https://github.com/user-attachments/assets/460f5166-a4a2-49d7-a389-2bdb2068cb2b" />
+<img width="280" height="100" alt="image" src="https://github.com/user-attachments/assets/460f5166-a4a2-49d7-a389-2bdb2068cb2b" />
 
 ## Experiments
 - Process each 500 audio file through the ASR model with/withouwt using LM for decoding (Pre-processing data, run feature extractions and acoustic model, decoding with and without the pruned 3-gram LM) 
@@ -36,8 +36,7 @@
 
 ## Results
 - WER: lower values are better, SeMaScore: values closer to 1 are better
-<img width="633" height="209" alt="image" src="https://github.com/user-attachments/assets/bbeb1ba1-337b-4ae7-968f-573dc9076ec4" />
-<img width="625" height="209" alt="image" src="https://github.com/user-attachments/assets/3b3bbe9c-0a43-4ff2-b1f2-61e662bcf45e" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/3b3bbe9c-0a43-4ff2-b1f2-61e662bcf45e" />
 
 
 ## Highlight in conclustions
