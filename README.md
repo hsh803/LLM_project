@@ -36,7 +36,7 @@
 
 ## Results
 - WER: lower values are better, SeMaScore: values closer to 1 are better
-<img width="400" height="170" alt="image" src="https://github.com/user-attachments/assets/3b3bbe9c-0a43-4ff2-b1f2-61e662bcf45e" />
+<img width="410" height="170" alt="image" src="https://github.com/user-attachments/assets/3b3bbe9c-0a43-4ff2-b1f2-61e662bcf45e" />
 
 
 ## Highlight in conclustions
